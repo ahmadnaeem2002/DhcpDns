@@ -39,7 +39,7 @@ The project includes the following files and directories:
 7. Test the network connectivity and make sure all components are functioning as expected.
 
 ## Conclusion
-I'm proud of my work on this project and grateful for the opportunity to use my skills and knowledge to make a real difference in our organization. I hope this project serves as a useful example of how to set up a secure and efficient network environment using CentOS 7 virtual machines.
+I'm proud of my work on this project and grateful for the opportunity to use my skills and knowledge to make a real difference my carrer. I hope this project serves as a useful example of how to set up a secure and efficient network environment using CentOS 7 virtual machines.
 
 
 
